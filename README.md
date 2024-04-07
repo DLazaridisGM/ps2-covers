@@ -6,29 +6,57 @@
 - [PSCoverDL App](https://github.com/xlenore/ps2-covers#PSCoverDL)
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup  "PCSX2 Setup")
 
-## PSCoverDL
 
-[![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
+## Emulators Built in Cover Downloaders
+PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update your emulator to the Latest Release.
 
-Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
-You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
 
-## PCSX2 setup
+## Setup for PCSX2 & Duckstation
 
 [![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
 
-PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
-- Open PCSX2
-- Tools -> Cover Downloader...
-- Use this URL for default covers
+1. **Open PCSX2 Or Duckstation:**
+- Help
+  - Check for updates
+ 
+2. **Go To:**
+- Tools
+  - Cover Downloader...
+
+3. **Copy one of the URLs Below**
+
+4. **Paste The URL in the box under [EXAMPLE: https://.....]**
+
+5. **Check The Box "Use Serial File Names"**
+
+6. **Click Start**
+
+7. **Wait For The Covers To Download And you're done.**
+
+## PS1 Covers
+- >URL for 2D -  ___PS1___ covers.
+  ```python
+  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/default/${serial}.jpg
+- >URL for 3D -  ___PS1___ covers.
+  ```python
+  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/3d/${serial}.png
+## PS2 Covers
+- >URL for 2D -  ___PS2___ covers.
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
-- or use this one for 3D covers.
+- >URL for 3D -  ___PS2___ covers.
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
-- Check "Use Serial Files Name"
-- Click Start
-- Enjoy :)
+
+## PSCoverDL
+*Alternatively you can use* __PSCoverDL__
+
+- Its a small tool to download PS1/PS2 covers for DuckStation and PCSX2.
+
+- You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
+
+[![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
+
 
 ## Covers Stats
 
