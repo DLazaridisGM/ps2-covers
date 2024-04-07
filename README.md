@@ -8,7 +8,7 @@
 
 
 ## Emulators Built in Cover Downloaders
-PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to update your emulator to **Latest Release** for (Duckstation) and **Nightly** For (PCSX2).
+PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to update your emulator to **Latest Release** for (Duckstation) and **Latest Nightly** For (PCSX2).
 
 
 ## Setup for PCSX2 & Duckstation
