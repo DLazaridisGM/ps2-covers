@@ -11,11 +11,11 @@
 PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to update your emulator to **Latest Release** for (Duckstation) and **Latest Nightly** For (PCSX2).
 
 
-## Setup for PCSX2 & Duckstation
+## Setup for PCSX2
 
 [![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
 
-1. **Open PCSX2 Or Duckstation:**
+1. **Open PCSX2:**
 - Help
   - Check for updates
  
@@ -33,13 +33,6 @@ PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to update yo
 
 7. **Wait For The Covers To Download And you're done.**
 
-## PS1 Covers
-- >URL for __2D__ -  ___PS1___ covers.
-  ```python
-  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/default/${serial}.jpg
-- >URL for __3D__ -  ___PS1___ covers.
-  ```python
-  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/3d/${serial}.png
 ## PS2 Covers
 - >URL for __2D__ -  ___PS2___ covers.
   ```python
